@@ -1,3 +1,4 @@
+package DAA005;
 import java.util.*;
 public class DAA005 {
 
